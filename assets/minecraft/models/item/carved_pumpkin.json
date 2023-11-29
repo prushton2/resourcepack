@@ -1,0 +1,7 @@
+{
+    "parent": "block/carved_pumpkin",
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":65536}, "model": "custom/crown"}
+	]
+}
